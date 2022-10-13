@@ -1,11 +1,11 @@
 import Head from 'next/head'
 import Image from 'next/image';
 import Link from 'next/link'
-import styles from '../styles/Home.module.scss'
+import styles from '../../styles/Home.module.scss'
 
-export default function Home() {
+export default function About() {
   return (
-    <div >
+    <div>
       <div className={styles.container}>
         <Head>
           <title>Acquiring Technology</title>
@@ -15,13 +15,14 @@ export default function Home() {
 
         <main className={styles.main}>
           <h1 className={styles.title}>
-            Welcome to <a href="https://nextjs.org">Acquiring Technology!</a>
+            About <a href="https://nextjs.org">Acquiring Technology!</a>
           </h1>
 
-
+          <Image src="/logo_without_text.webp" alt="Vercel Logo" width={45} height={45} />
         </main>
+
       </div>
-     
+
       <div className='row'>
         <div className='col-md-12 border-top'>
           <div className="container  ">
@@ -30,7 +31,7 @@ export default function Home() {
                 <Link href="/about" className="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
                   <Image src="/logo_without_text.png" alt="Vercel Logo" width={45} height={45} />
                 </Link>
-                <span className="mb-3 mb-md-0 text-muted  ms-2">© 2022 Acquiring Technology!</span>
+                <span className="mb-3 mb-md-0 text-muted ms-2">© 2022 Acquiring Technology!</span>
               </div>
 
               {/* <ul className="nav col-md-4 justify-content-end list-unstyled d-flex">
@@ -42,9 +43,10 @@ export default function Home() {
           </div>
         </div>
       </div>
+
+
+
+
     </div>
-
-
-
   )
 }

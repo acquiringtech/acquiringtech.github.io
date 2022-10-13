@@ -1,0 +1,19 @@
+<svg xmlns:mydata="http://www.w3.org/2000/svg" mydata:contrastcolor="ffffff" mydata:template="Contrast"
+    mydata:presentation="2.5" mydata:layouttype="undefined" mydata:specialfontid="undefined" mydata:id1="139"
+    mydata:id2="138" mydata:companyname="acquiring" mydata:companytagline="" version="1.1"
+    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 550 470">
+    <g fill="rgba(167, 28, 28, 1)" fill-rule="none" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter"
+        stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none"
+        font-size="none" text-anchor="none" style="mix-blend-mode: normal">
+        <g
+            data-paper-data="{&quot;isGlobalGroup&quot;:true,&quot;bounds&quot;:{&quot;x&quot;:95.95050091299413,&quot;y&quot;:115,&quot;width&quot;:358.09899817401174,&quot;height&quot;:240}}">
+           
+            <g data-paper-data="{&quot;isIcon&quot;:&quot;true&quot;,&quot;iconType&quot;:&quot;icon&quot;,&quot;rawIconId&quot;:&quot;1371437&quot;,&quot;selectedEffects&quot;:{&quot;container&quot;:&quot;&quot;,&quot;transformation&quot;:&quot;&quot;,&quot;pattern&quot;:&quot;&quot;},&quot;isDetailed&quot;:false,&quot;fillRule&quot;:&quot;evenodd&quot;,&quot;bounds&quot;:{&quot;x&quot;:203.30676602674825,&quot;y&quot;:115,&quot;width&quot;:143.38646794650347,&quot;height&quot;:143.3864679465035},&quot;iconStyle&quot;:&quot;standalone&quot;,&quot;suitableAsStandaloneIcon&quot;:true}"
+                fill-rule="evenodd">
+                <path
+                    d="M215.25624,115h119.48753c6.57068,0 11.94947,5.37878 11.94947,11.94947v119.48753c0,6.57068 -5.37878,11.94947 -11.94947,11.94947h-119.48753c-6.57068,0 -11.94947,-5.37878 -11.94947,-11.94947v-119.48753c0,-6.57068 5.37878,-11.94947 11.94947,-11.94947zM275,246.437l53.76993,-29.87099v-59.74556l-53.76993,-29.87099l-53.76993,29.87099v59.74556l11.94947,6.63879v-59.35304l41.82046,-23.23219l41.82046,23.23219v45.68293l-41.82046,23.23219l-17.92331,-9.95998v-44.8961l17.92331,-9.95998l17.92331,9.95998v17.56305l-11.94947,6.63521v-17.16515l-5.97384,-3.31402l-5.97384,3.31223v30.83526l5.97384,3.3194l29.87278,-16.59161v-31.62209l-29.87278,-16.5934l-29.87278,16.5934v58.96052z"
+                    data-paper-data="{&quot;isPathIcon&quot;:true}"></path>
+            </g>
+        </g>
+    </g>
+</svg>
